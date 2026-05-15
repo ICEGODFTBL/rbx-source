@@ -1,9 +1,9 @@
 # rbx-source
-• This repo has open source things
+- This repo has open source things
 - including
-- - icons for ur ui or wtv
-  - - sounds
-    - - obfuscation techniques
+- icons for ur ui or wtv
+  - sounds
+    -  obfuscation techniques
       - Lua parser
       - Vm
       - 25ms and **threaded** source.
