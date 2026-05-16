@@ -4,7 +4,10 @@
 - icons for ur ui or wtv
   - sounds
     -  obfuscation techniques
+    -  Watermarks
+    -  obfuscator samples
       - Lua parser
       - Vm
       - 25ms and **threaded** source.
       - No i was not responsible for threaded getting leaked, or 25ms. 
+- soon will add icons & soundd ok? fuck off
